@@ -1,10 +1,9 @@
-## Olá
-<div align="center">
+## Olá! Eu sou o Matheus Silva
   <a href="https://github.com/maathsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maathsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathsilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+### Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
