@@ -1,4 +1,4 @@
-# Faaala, dev! Eu sou o Matheus Silva 🖐️
+# Fala, dev! Eu sou o Matheus Silva 🖐️
   <a href="https://github.com/maathsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maathsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
