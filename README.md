@@ -1,5 +1,7 @@
 # Fala, dev! Eu sou o Matheus Silva 🖐️
 
+Sou apaixonado por desenvolvimento de software e valorizo a autonomia, sempre buscando melhorias de forma proativa. Tenho sólidos conhecimentos em HTML, CSS e Javascript, além de experiência com frameworks modernos como React e Angular. Sou habilidoso com testes automatizados e ferramentas de controle de versão, especialmente Git.
+
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
