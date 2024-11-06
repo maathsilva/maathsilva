@@ -1,6 +1,10 @@
 # Fala, dev! Eu sou o Matheus Silva 🖐️
 
-Sou apaixonado por desenvolvimento de software e valorizo a autonomia, sempre buscando melhorias de forma proativa. Tenho sólidos conhecimentos em HTML, CSS e Javascript, além de experiência com frameworks modernos como React e Angular. Sou habilidoso com testes automatizados e ferramentas de controle de versão, especialmente Git.
+Engenheiro de Software com sólidos conhecimentos em HTML, CSS e JavaScript, além de experiência com bibliotecas e frameworks modernos, como React e Angular. Trabalho bem com testes automatizados e uso ferramentas de controle de versão, especialmente o Git.
+
+Sou apaixonado por resolver problemas, ajudar pessoas e criar soluções que fazem a diferença. Tenho um foco constante em entregar valor tanto para o cliente final quanto para o produto em que estou envolvido. Entendo bem a importância das minhas contribuições e da equipe como um todo, por isso, estou sempre em busca de maneiras de apoiar meus colegas de trabalho.
+
+Possuo boas habilidades de comunicação e interpessoais, o que me permite explicar conceitos técnicos complexos de maneira clara para pessoas de outras áreas. Gosto de compartilhar meu conhecimento e sempre estou disponível para ajudar.
 
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br>
