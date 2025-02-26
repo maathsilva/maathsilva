@@ -15,5 +15,3 @@ Possuo boas habilidades de comunicação e interpessoais, o que me permite expli
   <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> 
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
 </div>
-
-##
