@@ -6,7 +6,7 @@ Sou apaixonado por resolver problemas, ajudar pessoas e criar soluções que faz
 
 Possuo boas habilidades de comunicação e interpessoais, o que me permite explicar conceitos técnicos complexos de maneira clara para pessoas de outras áreas. Gosto de compartilhar meu conhecimento e sempre estou disponível para ajudar.
 
-## Tecnologias que uso no meu dia
+## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
