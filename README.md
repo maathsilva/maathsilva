@@ -1,6 +1,6 @@
 # Fala, dev! Eu sou o Matheus Silva 🖐️
 
-Engenheiro de Software com sólidos conhecimentos em HTML, CSS e JavaScript, além de experiência com biblioteca moderna, como React. Trabalho bem com testes automatizados e uso ferramentas de controle de versão, especialmente o Git.
+Engenheiro de Software com sólidos conhecimentos em HTML, CSS e JavaScript, além de experiência com React. Tenho familiaridade com os frameworks Tailwind CSS e Next.js, trabalho bem com testes automatizados e utilizo Git para controle de versão.
 
 Sou apaixonado por resolver problemas, ajudar pessoas e criar soluções que fazem a diferença. Tenho um foco constante em entregar valor tanto para o cliente final quanto para o produto em que estou envolvido. Entendo bem a importância das minhas contribuições e da equipe como um todo, por isso, estou sempre em busca de maneiras de apoiar meus colegas de trabalho.
 
