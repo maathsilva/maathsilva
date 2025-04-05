@@ -1,17 +1,17 @@
-# Fala, dev! Eu sou o Matheus Silva 🖐️
+# Olá! Eu sou o Matheus Silva 🖐️
 
-Engenheiro de Software com sólidos conhecimentos em HTML, CSS e JavaScript, além de experiência com React. Tenho familiaridade com os frameworks Tailwind CSS e Next.js, trabalho bem com testes automatizados e utilizo Git para controle de versão.
+Analista de Dados especializado em extração, análise e visualização de dados, com forte experiência em SQL, Python para Data Science, Power BI e Excel Avançado. Possuo amplo conhecimento em modelagem de dados, manipulação de grandes volumes de informações e desenvolvimento de dashboards interativos para facilitar a tomada de decisões estratégicas.
 
-Sou apaixonado por resolver problemas, ajudar pessoas e criar soluções que fazem a diferença. Tenho um foco constante em entregar valor tanto para o cliente final quanto para o produto em que estou envolvido. Entendo bem a importância das minhas contribuições e da equipe como um todo, por isso, estou sempre em busca de maneiras de apoiar meus colegas de trabalho.
+Tenho sólido domínio no uso de Pandas, NumPy e Matplotlib para análise exploratória de dados, além de experiência na criação de consultas SQL otimizadas, stored procedures e triggers para bancos de dados relacionais como MySQL. No Power BI, domino a modelagem de dados com Power Query, cálculos com DAX e a construção de relatórios dinâmicos e visuais impactantes.
 
-Possuo boas habilidades de comunicação e interpessoais, o que me permite explicar conceitos técnicos complexos de maneira clara para pessoas de outras áreas. Gosto de compartilhar meu conhecimento e sempre estou disponível para ajudar.
+Apaixonado por transformar dados em insights valiosos, foco na tomada de decisões baseada em dados, garantindo soluções eficientes, acessíveis e escaláveis. Trabalho com versionamento de código no Git, automação de processos com macros e Python, além de boas práticas em ETL e integração de diferentes fontes de dados.
 
 ## Tecnologias
 <div style="display: inline_block"><br>
-  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> 
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
+  <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img align="center" alt="powerbi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
